@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The government of the thoughts a sermon preach'd before the King and Queen at White-Hall, the 4th of March, being the 2d Sunday in Lent, 1693/4 / by ... John, Lord Arch-bishop of York.</title>
+            <author>Sharp, John, 1645-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59550</idno>
+            <idno type="STC">Wing S2977A</idno>
+            <idno type="STC">ESTC R17053</idno>
+            <idno type="EEBO-CITATION">13153821</idno>
+            <idno type="OCLC">ocm 13153821</idno>
+            <idno type="VID">98158</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98158)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 751:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The government of the thoughts a sermon preach'd before the King and Queen at White-Hall, the 4th of March, being the 2d Sunday in Lent, 1693/4 / by ... John, Lord Arch-bishop of York.</title>
+                  <author>Sharp, John, 1645-1714.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Hen. Hills ..., for the benefit of the poor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Proverbs IV, 23 --  Sermons.</term>
+               <term>Thought and thinking --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98158:1"/>
+            <pb facs="tcp:98158:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Government of the Thoughts:</hi>
+            </p>
+            <p>A SERMON PREACH'D before the KING and QUEEN, AT
+<hi>WHITE-HALL.</hi>
+            </p>
+            <p>The 4th <hi>of</hi> March, being the 2d Sunday in <hi>LENT,</hi>
+1693/4.</p>
+            <q>
+               <bibl>PROV. iv. Ver. 23.</bibl>
+               <p>
+                  <hi>Keep thy Heart with all diligence, for out of it are the iſſues of Life.</hi>
+               </p>
+            </q>
+            <p>By the Moſt Reverend Father in GOD JOHN, Lord Arch-biſhop Of YORK.</p>
+            <p>
+               <hi>Publiſh'd by Their MAJESTIES Eſpecial Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>Hen. Hills.</hi> in
+<hi>Black-Fryars,</hi> near the Water-ſide, for the Benefit of the Poor.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="2" facs="tcp:98158:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. IV. Ver. 23.</hi>
+                  </bibl>
+                  <p>Keep thy Heart with all diligence, for out of it are the iſſues of Life.</p>
+               </q>
+            </epigraph>
+            <p>THE Argument with which this Audience was entertained the laſt
+<hi>Lord's Day,</hi> being the <hi>Government of the Tongue;</hi> I can<g ref="char:EOLhyphen"/>not think it improper or unſeaſonable for me, who have the Ho<g ref="char:EOLhyphen"/>nour to come next, to treat labour the <hi>Government of the Thoughts;</hi> there being a near relation between theſe two, and a neceſſary dependance of the one upon the other.</p>
+            <p>Our <hi>Words</hi> indeed are more eaſily governed than our
+<hi>Thoughts,</hi> becauſe they are more in our Power. But it will be impoſſible either to govern our <hi>Words</hi> or our <hi>Actions,</hi> as we ſhould, unleſs we firſt bring our <hi>Thought:</hi> in ſome meaſure under Government.</p>
+            <p>I muſt confeſs this Argument of the <hi>Government of the Thoughts,</hi> tho' it be a very uſeful, yet it ſeems alſo a very nice and difficult one, through the great variety of Caſes, ariſing from Mens different Tempers, which will not come under the ſame Rules, and yet ought to be provided for. But however, this ſhall not diſcourage me from undertaking this Argument; it ſhall only make me more carefull as to what I ſay about it. That is, to have reſpect, as much as I can to all ſorts of Tempers, and to deliver what I have to ſay with ſo much Plainneſs, that every-body may go along with me.</p>
+            <p>The <hi>Words,</hi> upon which I ground my Diſcourſe, are thoſe of <hi>Solomon,</hi> which I have read unto you, and which contain one of thoſe Precepts that he lays down for the Religious Conduct of our Lives.
+<hi>Keep</hi> (ſays he) <hi>thy Heart with all diligence, for out of it are the iſſues of Life.</hi>
+            </p>
+            <p>Not to trouble you with what others have ſaid upon this Text, I take the true Meaning of it to be this.</p>
+            <p>By the <hi>Heart</hi> here, which we are exhorted to
+<hi>keep,</hi> we are to underſtand the <hi>Inward Thoughts</hi> and
+<hi>Motions,</hi> and <hi>Affections</hi> of our Souls or Spirits; all which in the inſpired Writings are conſtantly ſaid to be ſeated in the
+<hi>Heart.</hi> This undoubtedly is the Scripture Notion of the
+<hi>Heart.</hi>
+            </p>
+            <p>And when we are here bid to <hi>keep our Hearts with all diligence,</hi> I think there is no queſtion to be made, the Meaning is, That we ſhould diligently attend to the Thoughts and Motions, and Affections of our Minds; that we ſhould watch them narrowly, leſt at any time we ſhould give our Con<g ref="char:EOLhyphen"/>ſent to ſomething we ought not. This is the Meaning of
+<hi>Keeping our Hearts with all diligence.</hi>
+            </p>
+            <p>And then a Reaſon is added why it concerns us thus to keep them. And that is this: Becauſe <hi>out of the Heart are the iſſues of Life.</hi> What is the <pb n="3" facs="tcp:98158:2"/>Meaning of that Phraſe? Plainly this: The Iſſues, the Fruits, the Effects hat are ſhewn in our Lives and Converſation, do certainly proceed from he Heart; and therefore, accordingly as that is well or ill <hi>guarded</hi> or <hi>kept,</hi> ſo will our Lives and Converſations be. The Goodneſs or Badneſs of our Lives doth altogether depend upon the Attending or not Attending to the <hi>Thoughts,</hi> and Motions, and Inclinations of our Minds. As our Caution and Watchfulneſs in this Point is greater or leſs, ſo will our Courſe of Life be better or worſe. And therefore it concerns us all, that mean to live well, to be infinitely careful in this Matter.</p>
+            <p>This is a plain Account of the Advice that is here given us. So that you ſee, if I mean to diſcourſe pertinently to my Text, my Argument muſt be (what I ſaid) the Care, and Management, and <hi>Government</hi> of our <hi>Thoughts,</hi> as they fall under a Religious Conſideration.</p>
+            <p>In treating of this Argument, there ſeem to me <hi>Two Things</hi> needful to be done.</p>
+            <p>
+               <hi>First,</hi> To give an Account what Power a Man hath over his own <hi>Thoughts.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> To ſhew wherein the Art of <hi>Governing</hi> of them doth conſiſt.</p>
+            <p>It is indeed this <hi>Second Thing</hi> which my Text naturally leads me to ſpeak to: But I cannot ſpeak to that to any purpoſe, till I have made way for it by clearing the <hi>First.</hi> It is in vain to give Rules about the <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> of our <hi>Thoughts,</hi> till we know how far we have Power over them; how far they fall, or do not fall under our Conduct and Management.</p>
+            <p>And I muſt needs ſay, that moſt of thoſe I have met with, that have diſcourſe about the <hi>Government of Thoughts,</hi> by not enquiring into, and ſetling this Point, have been ſo far from benefiting all their Hearers, that deſired to receive Benefit by their good Advices, that to ſeveral of 'em they have done harm; becauſe as to them their Advices have been perfect<g ref="char:EOLhyphen"/>ly unpracticable. Now thoſe that by their own Experience found them to be ſo, inſtead of conſidering that that Teacher might be in a miſtake, or that he did not ſufficiently weigh and examine the Caſe of all Perſons be gave his Advice to, have peremptorily concluded that they themſelves were in the fault, and therefore they were in an evil Condition; becauſe they found themſelves not able to live up to what was adviſed them.</p>
+            <p>The <hi>First</hi> Queſtion then is, How far a Man hath power over his own Thoughts. There is not indeed any ſingle Anſwer to be given to this Que<g ref="char:EOLhyphen"/>ſtion, that will fit all Men. For that is impoſſible. It would be as unreaſon<g ref="char:EOLhyphen"/>able to demand it, as it would be to require of a Workman to make a Gar<g ref="char:EOLhyphen"/>ment, that ſhould fit all ſorts and ſizes of Men.</p>
+            <p>Some Men by the very Principles of their Make and Conſtitution, are much better able to govern their Thoughts than others. Some that are naturally weaker, have by long uſe and many tryals obtained a greater power over their Thoughts than others. Again, the ſame Perſons that at ſome times have a greater power over the motions of their Minds, may at other times have a leſs command over them; and this according to their Health, or their Buſineſs, or a hundred Contingencies of outward things do affect
+<pb n="4" facs="tcp:98158:3"/>them. So that all that can be done, as to this matter, is to lay down ſome general Propoſitions, which every-body is to apply to himſelf as there is Occaſion. And Five of this kind I have to offer, and which, I think, will take in all, or the greateſt part of what belongs to this Argument.</p>
+            <p>The <hi>First</hi> Propoſition I lay down is this, That the firſt motions of our Minds are very little, if at all, in our power.</p>
+            <p>By the <hi>First motions of our Minds,</hi> I mean thoſe ſudden Thoughts, or Apprehenſions, or Paſſions, or Deſires, which are excited in our Minds by any Object that is at that time preſented to our Imagination. As to theſe, I ſay, we are not ſo much Maſters of our ſelves as to be able to ſtop them; nay, tho' perhaps they be very irregular. And the Reaſon is, becauſe they are produced ſo quick, that there is not time enough given for Reaſon to interpoſe.</p>
+            <p>There is no neceſſity indeed that a Man ſhould give Conſent to theſe Motions; but as for their coming into his Mind, he can no more help it, than he can help this preſent Temper, or the preſent Circumſtances he is ingaged in.</p>
+            <p>Thus for Inſtance. Do you think it poſſible for a Man that is of a fiery paſſionate Temper, to avoid the feeling a ſudden reſentment of Anger a<g ref="char:EOLhyphen"/>riſing in his Mind, if he meets with any unexpected Affront, or other great Provocation? Or for a Man that deſires to be well though of, not to en<g ref="char:EOLhyphen"/>tertain ſome Vanity of Imagination, when he hears himſelf commended or flatter'd? Or for a Man that is addicted to Pleaſures, not to feel ſome ir<g ref="char:EOLhyphen"/>regular Inclinations in himſelf towards the gratifying his Appetites in thoſe things, when he hath all the Temptations before him? And thus in all other Caſes.</p>
+            <p>I grant indeed, that a Man by long conſideration, and a ſerious exer<g ref="char:EOLhyphen"/>ciſing himſelf in the ways of Vertue and Piety, may bring himſelf to that Temper, that he ſhall not have ſo many irregular undecent motions in his own Mind, upon any occaſion whatſoever, as he was wont to have; and that thoſe that were formerly <hi>Temptations</hi> to him, will at laſt be none: but ſtill I ſay, the firſt motions and workings of his Mind, however they be occaſioned, are in a great meaſure out of his power; he cannot ſtop them; and therefore the <hi>Art</hi> of <hi>Governing</hi> his
+<hi>Thoughts</hi> doth not lye there.</p>
+            <p>The <hi>Second</hi> Propoſition I lay down is this, When a Man's Mind is vigou<g ref="char:EOLhyphen"/>rouſly affected and poſſeſſed, either with the outward Objects of Senſe, or with inward Paſſions of any kind, in that Caſe he hath little or no Com<g ref="char:EOLhyphen"/>mand of his Thoughts. His Mind at that time will be in a manner wholly taken up with that it is then full of: nor will he be able, till thoſe Impreſ<g ref="char:EOLhyphen"/>ſions be worn off, to think freely of what he pleaſeth.</p>
+            <p>Thus for Inſtance, When a Man is under a ſharp, tormenting Pain; as he cannot avoid the <hi>Feeling</hi> of the Pain; ſo neither can he avoid the <hi>Think<g ref="char:EOLhyphen"/>ing</hi> of it. When one is full of Grief for the loſs of a dear Relation; or tranſ<g ref="char:EOLhyphen"/>ported with Paſſion for ſome unworthy uſage he hath met with: It is in vain to ſay, <hi>Pray, think not of theſe Matters;</hi> for theſe things muſt and will in a great meaſure imploy his Thoughts, till his Paſſions do cool, and the Impreſſions that cauſed them be vaniſhed.</p>
+            <pb n="5" facs="tcp:98158:3"/>
+            <p>Thus for a Man to come from Buſineſs in which he is more than or<g ref="char:EOLhyphen"/>dinarily concerned, or from the hearing ſome very good or very bad News; I ſay, to come freſh from this to the ſaying his Prayers: I do not, I can<g ref="char:EOLhyphen"/>not wonder, that in this Caſe his Mind will be much upon his
+<hi>Buſineſs,</hi> or his <hi>News,</hi> notwithſtanding all his Endeavours to the contrary.</p>
+            <p>For the Nature of Man in ſuch, that he cannot ſo of a ſudden turn his Mind from one <hi>Buſineſs</hi> to another; but that if he did cloſely and vigo<g ref="char:EOLhyphen"/>rouſly apply himſelf to the firſt
+<hi>Buſineſs,</hi> his Thoughts will for ſome time run upon it, even after he hath applied his Mind to the other.</p>
+            <p>I do not deny, but that a Man may often ſo order his Affairs, as to be able to keep his Mind clear and free from ſuch Propoſſeſſions as I am now ſpeaking of, ſo as that when he comes to apply himſelf to any
+<hi>Buſineſs</hi> he hath a mind to, he may intend it with his whole might. But this I ſay, if our Minds be once engaged with warm Thoughts about any thing; it is very hard, if not impoſſible, to get them diſengaged on a ſudden. So that the <hi>Art</hi> of <hi>Governing</hi> our <hi>Thoughts</hi> doth not much lie in that neither.</p>
+            <p>
+               <hi>Thirdly,</hi> There are ſome Caſes likewiſe, where a Man's Thoughts are in a manner forced upon him, from the preſent Temper and Indiſpoſition of his Body. So that tho' he be in no Paſſion, tho' there be no unuſual Objects of Senſe that excite thoſe Thoughts in him; nay, tho' he never ſo much reſolve not to think upon thoſe things; yet ſo long as that Habit of Body laſts, he cannot avoid thoſe kind of Thoughts: So that in this Caſe alſo, there is little room left for the
+<hi>Government</hi> of <hi>Thoughts.</hi>
+            </p>
+            <p>That which I now ſay, happens frequently, not only in all ſort of Di<g ref="char:EOLhyphen"/>ſtempers, where the Brain is viſibly diſturbed, as in Feavers, and the like; which often cauſe a thouſand delirous Fancies, and ſometimes downright Madneſs and Diſtraction: But alſo in other Caſes where there ſeems to be no Feavers, or other viſible Diſtemper; nor doth Brain, as to other matters, ſeem to be at all diſordered; but the Perſons in all appearance, are ſound both in Body and Mind.</p>
+            <p>And this is the Caſe of ſome deeply <hi>Hypochondriac</hi> Perſons; many of which will be haunted with a <hi>Sett</hi> of
+<hi>Thoughts</hi> and <hi>Fancies,</hi> that they can by no means get rid of, tho' they deſire it never ſo earneſtily.</p>
+            <p>Sometimes they cannot get it out of their Heads, but that they are
+<hi>A<g ref="char:EOLhyphen"/>theiſts</hi> and <hi>Infidels;</hi> they neither believe in
+<hi>GOD</hi> nor in <hi>Jeſus Christ,</hi> nor have any Senſe at all of Religion.</p>
+            <p>Sometimes they are tormented with blaſphemous Thoughts, and they cannot ſet themſelves to the Performance of any Office of Devotion, but a thouſand impious Fancies will come in and ſpoil all.</p>
+            <p>Sometimes they fancy they are guilty of ſeveral grievous Crimes, which it is to be hoped, it was hardly poſſible they ſhould be guilty of; nay, you cannot convince them but that they do every day commit ſome of theſe Crimes, becauſe they imagine they give conſent to them.</p>
+            <p>And while theſe ſorts of Thoughts fill their Imaginations, there is not a Paſſage in the <hi>Bible</hi> that they read, nor a Sermon that they hear, but they find ſomething in it, which they do ſo perverſly apply to their own Caſe, as thereby to increaſe their trouble, but not to get any relief.</p>
+            <pb n="6" facs="tcp:98158:4"/>
+            <p>I have known ſeveral well diſpoſed Perſons, and ſome of them ſincerely Pious, that have been in this Condition.</p>
+            <p>What now is to be ſaid to this? Why, it is very certain that all theſe Thoughts and Fancies are thruſt upon them, and are not the free, natural, voluntary Operations of their own Minds; but the effects of Vapours or
+<hi>Hypochondriac</hi> Melancholy. Nor can the Perſons themſelves any more help their thus thinking, or fancying, than they can help the Diſturbances of their Dreams when they have a mind to ſleep quietly. Indeed we may properly enough call theſe <hi>Fancies</hi> of theirs, <hi>Their Waking-dreams;</hi> as their <hi>Dreams</hi> are their <hi>Sleeping-fancies.</hi>
+            </p>
+            <p>Well, but now of all Perſons whatſoever, theſe People are moſt de<g ref="char:EOLhyphen"/>ſirous to have <hi>Rules</hi> given them for the Government of the Toughts. And I cannot blame them, becauſe their Thoughts are certainly very trouble<g ref="char:EOLhyphen"/>ſome. But truly if we would ſpeak pertinently to their Caſe, inſtead of giving them Advices for the regulating their <hi>Thoughts,</hi> they ſhould rather be adviſed to look after their <hi>Bodies,</hi> and by the help of good Preſcriptions to get rid of thoſe <hi>Fumes</hi> and
+<hi>Vapours</hi> which occaſion theſe <hi>Fancies.</hi> When the Cauſe is removed, the Effect will ſoon ceaſe. I do not in the leaſt doubt, whatever theſe People may think of their own Caſe, but that this is as pro<g ref="char:EOLhyphen"/>perly a bodily Diſeaſe, as a <hi>Feaver</hi> or fits of the
+<hi>Falling-ſickneſs.</hi>
+            </p>
+            <p>In the mean time, while they are in this Condition, whatever Rules are proper to be given to other Perſons for the <hi>Government</hi> of the
+<hi>Thoughts,</hi> of all People living thoſe <hi>Rules</hi> do the leaſt concern them. For thoſe Thoughts which they complain of, do not at all fall under Regulation or Govern<g ref="char:EOLhyphen"/>ment, becauſe they are ſuggeſted to their Minds whether they will or no. And for my part, I think it a great deal more adviſable (if it could be) to neglect and deſpiſe them, than to be perpetually ſtruggling and diſputing with them, and vexing themſelves about them.</p>
+            <p>But, you will ſay, If Men be ſuch Slaves to their
+<hi>Thoughts,</hi> and are thus neceſſarily paſſive under them, where is the Freedom of <hi>Thoughts?</hi> To this I anſwer,</p>
+            <p>In the <hi>Fourth</hi> Place, out of theſe <hi>Three</hi> Caſes I before-mentioned, we have <hi>Liberty of Thinking,</hi> and may chuſe our own Thoughts. And that Li<g ref="char:EOLhyphen"/>berty and Freedom we have in
+<hi>Thinking,</hi> doth, to my apprehenſion, mainly conſiſt in this,
+<hi>viz</hi> That all of us (who are not in the Circumſtances I have been hitherto ſpeaking of) can, if we pleaſe, apply our Minds more vigorouſly to one ſort of thing than to another; and accordingly as we do thus apply our Minds, ſo will the moſt of our <hi>Thoughts</hi> be.</p>
+            <p>It is in our power among the multitude of Objects which preſent them<g ref="char:EOLhyphen"/>ſelves to our Mind; (as for Inſtance, <hi>GOD, Vertue, Holineſs, Heaven, Wealth, Power, Greatneſs, Preferments, Fine-cloaths, Splendid-equipage, Senſual-pleaſures, Recreations, Divertiſements, Knowledge, Learning, Arts,</hi> and the like; I ſay, that among all this Multitude of Objects that preſent themſelves to our Minds) it is in our power to determine our ſelves, which of them we will dwell upon, and make a
+<hi>Buſineſs</hi> of. And accordingly, when at any time we have pitched upon any of them, as a <hi>Buſineſs,</hi> it is in our <pb n="7" facs="tcp:98158:4"/>power to mind that <hi>Buſineſs,</hi> either more or leſs diligently. And if it be ſuch a one, as that we mean in good earneſt to concern our ſelves about it, it will then ſo fill our Minds, as that by attending to that, we ſhall either prevent in a great meaſure other Thoughts from coming into our Heads; or if they do come in, they will not long ſtay there, but will very ſpeedily give place to that which is our main Buſineſs at that time.</p>
+            <p>And the Reaſon of this is plain: Becauſe our Natures are of that make, that two things at once cannot well poſſeſs our Minds; and therefore if we be intent about one thing, we cannot have much room or leiſure for Thoughts of another Nature.</p>
+            <p>But then <hi>Fifthly</hi> and laſtly, Though this that I have ſaid be the true Na<g ref="char:EOLhyphen"/>ture of that Power we have over our Thoughts, as to the directing them to a particular Object: Yet there is another power we have over them that ought here more eſpecially to be conſider'd; becauſe in it are laid the very Foundations of <hi>Vertue</hi> and <hi>Vice;</hi> and upon account of it, all our Thoughts become either morally <hi>good</hi> or
+<hi>evil.</hi>
+            </p>
+            <p>That which I mean is this. Tho' we cannot in many Caſes, think al<g ref="char:EOLhyphen"/>ways of what we would; nay, tho' we cannot hinder abundance of Thoughts from coming into our Minds againſt our will: yet it is always in our power to aſſent to our Thoughts, or to deny our conſent to them. And here it is that the <hi>Morality</hi> of our <hi>Thoughts</hi> begins. According as we
+<hi>Aſſent</hi> or <hi>Diſſent</hi> to the motion that are made in our Mind; ſo will our <hi>Thoughts</hi> have the Notion of <hi>vertuous</hi> or
+<hi>ſinful</hi> Thoughts.</p>
+            <p>When any Temptations are preſented to us from without, we cannot perhaps (as I ſaid before) avoid the Feeling an irregular Paſſion or Mo<g ref="char:EOLhyphen"/>tion, or Inclination ſtirring within us, upon occaſion thereof: But yet at that very time it is in our power, whether we will comply with thoſe Paſ<g ref="char:EOLhyphen"/>ſions and Inclinations, or not; whether we will conſent to them, or not; whether we will purſue them further or not. Now if we do not conſent to them, but endeavour to ſtop, and ſtifle, and reſiſt them as ſoon as we are aware of them; there is yet no harm done. Our <hi>Thoughts,</hi> how unde<g ref="char:EOLhyphen"/>cent or irregular ſoever they were, are rather to be accounted the
+<hi>Infir<g ref="char:EOLhyphen"/>mities</hi> of our <hi>Corrupt</hi> Nature, than our <hi>Sins</hi> properly ſo called,</p>
+            <p>And thus it is likewiſe as to our <hi>Wandering Thoughts</hi> in our <hi>Prayers.</hi> If we ſtrive againſt them, and endeavour to keep our Minds in a Devout compoſed Temper, and attend as well as we can to the Duty we are about: I ſay, if we do this, I hope thoſe <hi>Diſtractions</hi> and <hi>Wanderings</hi> will never riſe up in Judgment againſt us.</p>
+            <p>And as for the frightful <hi>Blaſphemous</hi> Fancies, which as I told you, ſome, even Pious Perſons, are tormented with: As to them, I ſay, they, of all other irregular <hi>Thoughts,</hi> have the leaſt danger of Sin in them, tho' they be not ſo ſolemnly and formally diſputed with, and conteſted againſt. Be<g ref="char:EOLhyphen"/>cauſe indeed they are ſo terrible in their own Nature, that no Man in his Wits, and that hath any ſenſe of
+<hi>GOD</hi> or <hi>Goodneſs,</hi> can be ſuppoſed to conſent to them. They are indeed great <hi>Infelicities,</hi> but by no means any <hi>in,</hi> any farther than we approve of them; and to approve of them for any tolerably good Man is impoſſible.</p>
+            <pb n="8" facs="tcp:98158:5"/>
+            <p>But then on the other ſide, If we conſent to any wicked motion or In<g ref="char:EOLhyphen"/>clination that we feel in our ſelves; let it come in how it will, never ſo ſuddenly, never ſo unexpectedly; if we cloſe with any
+<hi>Thought</hi> that prompts us to Evil, ſo as to be pleaſed with it, to delight in it, to think of pur<g ref="char:EOLhyphen"/>ſuing it, till it be brought into Action: in that Caſe we are no longer to plead our <hi>Original Corruption;</hi> for in that very inſtant we become Actual Sinners, Actual Tranſgreſſors of the Law of <hi>GOD,</hi> the Obligation of which reaches to our very Hearts and Thoughts as well as our Actions. Tho' yet we are not ſo great Tranſgreſſors, ſo long as our Sin is only in thought, or deſire, or purpoſe; as if it had proceeded to outward Action.</p>
+            <p>All this is taught us for true Divinity, by no leſs an Author than St. <hi>James,</hi> in the firſt Chapter of his <hi>Epiſtle,</hi> Ver.
+13, 14, 15. <hi>Let no man ſay when he is tempted I am tempted of God; for God tempteth no man. But every man is tempted when he is drawn away of his own lust, and en<g ref="char:EOLhyphen"/>ticed. Then when lust hath conceived, it bringing forth ſin; and ſin, when it is finiſhed, bringeth forth death.</hi>
+            </p>
+            <p>Which Paſſage of the <hi>Apoſtle</hi> doth plainly contain theſe <hi>Three</hi> Propo<g ref="char:EOLhyphen"/>ſitions.</p>
+            <p>
+               <hi>First,</hi> That no Man is drawn to commit Sin by any State or Condition that <hi>GOD</hi> hath put him into; no, not by any Temptation, either out<g ref="char:EOLhyphen"/>ward or inward, that is preſented to him, It is not a Sin to be tempted; no, nor to feel that we are tempted by ſome diſorderly Inclination that ariſes in our Minds thereupon.</p>
+            <p>But, <hi>Secondly,</hi> Then our Sin begins, when we yield to the Temptation, when we are <hi>drawn away by our own Luſts; and enticed,</hi> when they get the Victory over us, and we do conſent to them. Then <hi>Lust hath conceived, and bringeth forth Sin.</hi>
+            </p>
+            <p>But, <hi>Thirdly,</hi> Tho' the very conſent of our Wills to a Temptation, be a Sin in us; yet that Sin is not ſo great as it will be afterwards, if it be brought to Action. Sin in the Deſire or Purpoſe, is but an <hi>Embryo;</hi> it is but the firſt Rudimen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Sin; but when it comes to be acted, it is then a Sin in its full Dimentions; and the Conſequents of it may be fatal without Repentance. <hi>Sin, when it is finiſhed, bringeth forth Death.</hi>
+            </p>
+            <p>Having thus given ſome Account, how far our <hi>Hearts</hi> and
+<hi>Thoughts</hi> do fall under <hi>Government;</hi> I now come to my
+<hi>Second Point,</hi> that, is to treat of the <hi>Art of Governing them;</hi> or to lay down the neceſſary <hi>Rules</hi> and <hi>Directions,</hi> which are to be obſerved in order thereunto.</p>
+            <p>And we ſhall not need to go far for theſe <hi>Rulles,</hi> for they will all naturally flow from the Principles I have already laid down. And I think, they may conveniently enough be reduced likewiſe to theſe
+<hi>Five</hi> followng.</p>
+            <p>
+               <hi>First,</hi> From what hath been ſaid, it appears, That the
+<hi>First</hi> and great Point to be done by us, if we would keep our
+<hi>Hearts</hi> in a good Frame, and order our <hi>Thoughts</hi> to good Purpoſes, is, that we rightly pitch our main Deſigns; that we chuſe that for the great Buſineſs of our Lives, that really ought to be ſo.</p>
+            <pb n="9" facs="tcp:98158:5"/>
+            <p>Now what that is, can bear no Diſpute with any Man that will fai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly uſe his Reaſon: For certainly, that which is our greateſt Concernment in the World, ought to be our greateſt Buſineſs and Deſign in the World.</p>
+            <p>And it is evident to every one, that believes he hath a Soul to ſave, that his greateſt Concerment of all, is, to approve himſelf to that
+<hi>GOD</hi> who made him, and diſpoſes of all his Affairs; and who accordingly as we ſincerely endeavour, or not endeavour to ſerve Him, will make us either very Hap<g ref="char:EOLhyphen"/>py, or very Miſerable, both in this Life and the other. So that there can, as I ſaid, be no diſpute about what ought to to be the great Buſineſs and Deſign of our whole Lives, and to which all other Buſineſſes muſt yield.</p>
+            <p>Now if we be ſo wiſe, as really to propoſe this as our main End, and reſolve to mind it, and follow it as ſuch; I ſay, if we be ſo wiſe as to do this, we have made a very great ſtep towards the obtaining a Security to our ſelves, that the greateſt part of our Thoughts, and Deſires and Affections, will be ſuch as they ſhould be; ſuch as will be acceptable to <hi>GOD,</hi> and ſatisfactory to our ſelves.</p>
+            <p>For, as I told you before, whatever is our main Buſineſs, be it what it will, it will in a great meaſure, draw all our Thoughts to it. Our Natures are ſo contrived, that we muſt always be thinking of ſome thing or other. But then they are ſo contrived likewiſe, that we think moſt of that, which is moſt in our Eye, moſt in our Eſteem, moſt in our Purſuit. And this is that which our Saviour tell us; <hi>Where you Trea<g ref="char:EOLhyphen"/>ſure is, there will your Heart be alſo.</hi> Whatever it be that you place your Happineſs in, upon that will your Thought run; upon that will your Deſires, your Inclinations, your Affections be fixed.</p>
+            <p>We have a world of Inſtances of the truth of this every day before our Eyes. If a Man hath ſet his Heart on <hi>Money,</hi> and propoſeth it to himſelf, as the <hi>Buſineſs</hi> of his Life, to be Rich: Why, I dare ſay, ſuch a one will own to you, that moſt of his Thoughts are upon that Project; and that he finds it ſo far from being difficult to keep his Mind cloſe and ſteady to his <hi>Main Interest,</hi> as he calls it; that it is rather difficult to him to think of any other matters.</p>
+            <pb n="10" facs="tcp:98158:6"/>
+            <p>If a Man be given up to <hi>Pleaſure,</hi> and thinks nothing wor<g ref="char:EOLhyphen"/>thy his living for, but <hi>Wine</hi> and <hi>Women,</hi> and good Eating and good Company; is it not natural to ſuch an one to bend all his Thoughts that way? Or doth he put any force or violence upon himſelf, in thinking and contriving all the day long, how to bring to paſs the gratification of his Luſts or his Ap<g ref="char:EOLhyphen"/>petites.</p>
+            <p>Why, my <hi>Brethren,</hi> if we did all of us in good Earneſt make the Service of <hi>GOD,</hi> and the purchaſing Heaven and Happineſs to our ſelves, as much our Buſineſs, our End, our Deſign, as theſe Men make Wealth or Pleaſure to be theirs, we ſhould certainly be thus affected. The common Courſe of our <hi>Thoughts,</hi> would naturally and eaſily without the leaſt conſtraint, run upon thoſe Objects: And we ſhould take as great delight in thinking of our Treaſure, and contriving for the obtaining of it; as they do in thinking and Projecting for theirs.</p>
+            <p>I ſay, Thus it would be with us. For I cannot for my Life apprehend, what Charms there can be in Worldly or Senſual Things, to attract a Man's Mind; what Fetters there can be in them, to <hi>bind</hi> his
+<hi>Thoughts,</hi> and tye them to themſelves; but that there are the ſame, or greater in Vertue and Good<g ref="char:EOLhyphen"/>neſs; in the Love and Favour of <hi>GOD;</hi> in a pure Conſci<g ref="char:EOLhyphen"/>ence here, and Eternal Glory hereafter: Always provided, that they are as much made the Objects of our Choice and Pur<g ref="char:EOLhyphen"/>ſuit, as the other.</p>
+            <p>And therefore I cannot but ſuſpect, where we ſee Men ſo very cold and backward to Spiritual Things; and ſo apt to ſpend all their Thoughts upon trifling, vain or worldly Mat<g ref="char:EOLhyphen"/>ters, that it is with a great deal of Pains and Reluctancy, that they can bring themſelves to think of their Everlaſting Con<g ref="char:EOLhyphen"/>cernments: I ſay, I cannot but ſuſpect that theſe Perſons have not yet <hi>laid up their Treaſure in Heaven,</hi> as our Saviour ex<g ref="char:EOLhyphen"/>preſſeth it; they have not yet ſo wholly devoted themſelves to the Service of <hi>GOD,</hi> as to make it their <hi>Main Buſineſs.</hi> When once they have done that, I dare aſſure them, they will find it ſo far from being a force upon them, to think of good things, that will be natural to them; and they will find the greateſt pleaſure in the World in ſo doing.</p>
+            <pb n="11" facs="tcp:98158:6"/>
+            <p>
+               <hi>Secondly,</hi> Whoever would keep his Heart always in a good Frame, and be able to give a good Account of his Thoughts to <hi>GOD,</hi> muſt have an eſpecial care to avoid Two Things, <hi>viz. Idleneſs</hi> and <hi>looſe Company.</hi> For both of theſe do ſtange<g ref="char:EOLhyphen"/>ly unhinge a Man's Mind; and diſarm it of that Severity, which is its beſt guard and defence againſt Evil Thoughts, and make it become an eaſy prey to every Temptation that will attack it.</p>
+            <p>A wiſe Man ſhould never be at ſuch a paſs, as to ſay,
+<hi>I have nothing to do, I do not know how to ſpend my next hour:</hi> But ſhould ſo order the Courſe of his Life, that all the Por<g ref="char:EOLhyphen"/>tions of his Time, as much as is poſſible, may be filled with ſome uſeful, or at leaſt ſome innocent Imployment.</p>
+            <p>It is <hi>Idleneſs,</hi> and having nothing to do, that is the Mo<g ref="char:EOLhyphen"/>ther of moſt of thoſe vain, and unprofitable and ſinful Fancies, in which ſome Men ſpend their days. And whereas Tempta<g ref="char:EOLhyphen"/>tions do now and then come in the way of other Men; the Idle Man is forced to ſeek out Temptations for the Shipwrack of his Vertue. And therefore no wonder, if he that ſeeks them, finds abundance of them.</p>
+            <p>And truly Looſe and Impertinent Converſation, which was the other thing I named, tho' it looks ſomething with a better Grace, yet is not much better than Idleneſs. For where-ever it is much uſed, it will ſo emaſculate a Man's Mind, and take off the edge and vigour of it, as to ſerious things, that he can<g ref="char:EOLhyphen"/>not eaſily get it into a good Frame again.
+<hi>Evil Communica<g ref="char:EOLhyphen"/>tion</hi> (ſaith St. <hi>Paul</hi>) <hi>doth corrupt good Manners.</hi> And there<g ref="char:EOLhyphen"/>fore thoſe People, a great part of whoſe Life is taken up in gadding up and down; in Play, in merry Meetings, in telling or hearing idle Stories, and the like: It is impoſſible but their Thoughts and Inclinations, and the whole Frame of their Hearts will be ſuitable; that is to ſay, very frothy; very light and fooliſh; not to ſay prophane, and wicked, and Athei<g ref="char:EOLhyphen"/>ſtical too, if the Company they much converſe with be of that ſtrain.</p>
+            <p>
+               <hi>Thirdly,</hi> Another thing of great moment, for the
+<hi>Keeping our Hearts,</hi> is, to be as attentive as is poſſible to the
+<hi>First Motions</hi> of our Minds; and whenever we find that they tend
+<pb n="12" facs="tcp:98158:7"/>toward ſomething that is forbidden, to ſtop them as ſoon as we can.</p>
+            <p>We cannot, as I told you before, often prevent irregular Deſires, or Paſſions, or Inclinations from ariſing in our Minds, upon ſundry occaſions. But this we can do: As ſoon as we are aware of them, we can refuſe our Conſent to them; (and in that caſe I hope they will not be imputed to us as Sins;) Nay, not only ſo, but we can refuſe their breaking out, or ſhewing themſelves in our Words, or our Actions. For the motions of our outward Members are all at our command, tho' the firſt motions of our Minds be not.</p>
+            <p>Here therefore will lye a main Point in the Art of well-go<g ref="char:EOLhyphen"/>verning our Minds and Thoughts. You cannot perhaps, for Inſtance, prevent a ſudden Paſſion of Anger from riſing in your Minds upon Twenty Accidents: But as ſoon as you feel this Paſſion, you can thus far ſtifle it, you can ſeal up your mouth, ſo that the Paſſion ſhall not vent it ſelf in unſeemly words: And if you will withdraw that fuel from the new-kindled Fire, it will ſoon be extinguiſhed, and die. Whereas if you ſuffer it to break out in bitter Speeches and Expreſſions, it will flame beyond meaſure.</p>
+            <p>Thus again, If any undecent, impure Fancies or Deſires ſhould be excited in you upon any occaſion: It was not per<g ref="char:EOLhyphen"/>haps in your power to keep them from coming into your Minds; but it is in your power to withdraw from the Temp<g ref="char:EOLhyphen"/>tation that cauſed them, and to endeavour to direct your Thoughts to ſome other Object: at leaſt not to proceed one ſtep in any outward Action towards the Accompliſhing of thoſe Deſires. If you take this Courſe, the Diſturbance of your Mind will ſoon ceaſe, and you will return preſently to your ordinary Temper.</p>
+            <p>And let me tell you this further, That by your being thus careful to reſiſt and ſmother the firſt beginnings of Sin, you will not only preſerve, in a great meaſure, the Innocency of your Minds under the preſent Temptation; but you will alſo have this farther advantage, that by this means you increaſe your Power over your Thoughts, againſt the next time that the Temptation returns. Every check you give to the firſt
+<pb n="13" facs="tcp:98158:7"/>motion of Sin, makes the next aſſault of them the leſs furious. And if you do conſtantly uſe your ſelves thus to Guard and Watch over your Hearts, you will in time obtain ſuch a Com<g ref="char:EOLhyphen"/>mand over them, that you will not be troubled with a quar<g ref="char:EOLhyphen"/>ter of thoſe irregular Deſires and Paſſions, which heretofore upon ſeveral occaſions uſed to be kindled in you. By this Me<g ref="char:EOLhyphen"/>thod you will ſtrengthen your Faculties, and enlarge your Powers; and by degrees bring your ſelves to that happy Temper of Soul, that there will be no great <hi>War</hi> between the <hi>Law</hi> of your
+<hi>Members,</hi> and the <hi>Law</hi> of your <hi>Minds:</hi> But the
+<hi>World</hi> and the <hi>Fleſh</hi> will be <hi>Crucified</hi> to you, as you are to them; that I may uſe St. <hi>Paul</hi>'s Expreſſions.</p>
+            <p>But then <hi>Fourthly,</hi> That you may be able not only to keep
+<hi>bad</hi> Thoughts out of your <hi>Minds,</hi> but alſo to have a conſtant ſpring of <hi>good</hi> ones; there are ſome particular
+<hi>Exerciſes</hi> very proper for this purpoſe to be recommended. Such I mean as theſe; <hi>Converſe with diſcreet and pious Perſons who read good Book,</hi> eſpecially the <hi>Holy Scriptures,</hi> taking times of
+<hi>Medi<g ref="char:EOLhyphen"/>tation</hi> and <hi>Recollection;</hi> and above all, <hi>Fervent and Conſtant Prayer to GOD.</hi>
+            </p>
+            <p>It is not to be told how every one of theſe things doth help to inſpire us with <hi>good</hi> Thoughts and Purpoſes.</p>
+            <p>A little Paſſage now and then, tho' but occaſionally dropt in a Converſation, that is to the buſineſs of <hi>Vertue</hi> and
+<hi>Goodneſs,</hi> will ſupply us ſome times with Matter for good
+<hi>Thoughts</hi> for a conſiderable while after. What laſting Impreſſions then, do ye think, would be left upon our Minds, if we made it our conſtant Exerciſe every day, to read or hear ſomething out of the
+<hi>Bible,</hi> or ſome other <hi>Good Book,</hi> with a deſign to grow Better thereby?</p>
+            <p>But above all things, we muſt take care to be diligent and ſerious in our Applications to the Throne of Grace: It is hear<g ref="char:EOLhyphen"/>ty Prayer and Devotion, that when all is done, will prove the moſt Effectual Means, for the keeping ourt Hearts ſteady to that which is Good, and ſecuring them from the pollutions of the ſenſible Earthly Objects that do ſurround us.</p>
+            <p>O therefore let us be conſtant in our Religious Offices. Nay, let us take every Opportunity that our Affairs will allow <pb n="14" facs="tcp:98158:8"/>us, of raiſing our Minds to <hi>GOD,</hi> and thanking him for his Infinite Love and Goodneſs to us; and imploring the con<g ref="char:EOLhyphen"/>tinual Influences of his Grace and Holy Spirit, and re-infor<g ref="char:EOLhyphen"/>cing our Vows and Purpoſes of perſevering in his Service.</p>
+            <p>By this means we ſhall come to lead Spiritual Lives indeed. Our Souls will be a perpetual Fountain of Good Thoughts. And while we live here, our Converſation will be in Heaven. For <hi>GOD</hi> and <hi>Christ,</hi> and the things above will have our <hi>Hearts,</hi> tho' the World hath our
+<hi>Bodies.</hi>
+            </p>
+            <p>But then in the <hi>Fifth</hi> and Laſt Place, Notwithſtanding what I have hitherto ſaid, concerning the <hi>Diligence</hi> with which we are to <hi>keep</hi> our <hi>Hearts;</hi> yet this is always to be remember<g ref="char:EOLhyphen"/>ed, That with our <hi>Diligence</hi> we muſt be careful to joyn
+<hi>Diſ<g ref="char:EOLhyphen"/>cretion.</hi>
+            </p>
+            <p>My Meaning is this, We muſt have a care not to <hi>intend</hi> our Thoughts immoderately, and more than our Tempers will bear, even to the beſt things: But we muſt ſo <hi>keep</hi> our <hi>Hearts,</hi> as at the ſame time to preſerve our <hi>Healths,</hi> and keep up the Vigour of our Minds.</p>
+            <p>And the way to do that, is, Not to put them too much, or too long, upon the ſtretch at any one time: But to relax them when there is occaſion, and to let them run out, and entertain themſelves upon any thing that comes next to hand, ſo long as it is Innocent.</p>
+            <p>It is a vain thing to imagine, that we can always be think<g ref="char:EOLhyphen"/>ing of our great Buſineſs; or that we can always be a Praying. or Reading, or Meditating; or, that, as our Condition is in this World, even the greater part of our <hi>Thoughts</hi> ſhould be ſuch as we call <hi>Devout</hi> and
+<hi>Religious Thoughts.</hi>
+            </p>
+            <p>
+               <hi>GOD</hi> hath provided a great deal of other Buſineſs for us to apply our Minds to, ſo long as we live in this World. And by minding that diligently and conſcientiouſly, we do ſerve <hi>GOD</hi> as acceptably, as if we were Reading or Praying.</p>
+            <p>Nay, even then, when we have no urgent Buſineſs upon our hands to take up our Minds, it is not neceſſary that we ſhould be always thinking of Religion. Norwould I call every Thought a <hi>vain,</hi> or an
+<hi>idle,</hi> or a <hi>ſinful</hi> Thought, that hath not <hi>GOD,</hi> or our Spiritual Concernments for its Object. Even <pb n="15" facs="tcp:98158:8"/>the moſt Spiritually-minded among us, muſt oftentimes be content to be entertained with ſuch <hi>Thoughts</hi> as our Company, or our Temper, or the preſent Circumſtances we are in, do ſuggeſt to us. And provided thoſe
+<hi>Thoughts</hi> be innocent, and do not intrench upon the Laws of
+<hi>Piety,</hi> and <hi>Purity,</hi> and <hi>Cha<g ref="char:EOLhyphen"/>rity;</hi> be they otherwiſe very trifling and impertinent: I ſay, I would not look upon them as <hi>ill Thoughts,</hi> nor have any one angry at himſelf upon account of them.</p>
+            <p>The truth of it is, So long as we conſiſt of Bodies and Souls, we cannot always be thinking of ſerious things. They indeed are the wiſeſt that think of them moſt, but it is even dangerous to attempt to think of them always. For, as moſt Mens Con<g ref="char:EOLhyphen"/>ſtitutions are, that is the ready way to ſpoil the Habit of our Bodies, and by that means to render our Minds perfectly un<g ref="char:EOLhyphen"/>fit for <hi>Thinking</hi> at all to any good Purpoſes.</p>
+            <p>Thus have I laid before you the <hi>Main Things</hi> wherein, as I do believe, the right <hi>Governing our Thoughts</hi> doth conſiſt. And I doubt not, they are ſo ſafe, and ſo effectual, that whoſoever will ſincerely practiſe them, as far as he can, will ſo <hi>keep</hi> his
+<hi>Heart,</hi> that the <hi>Iſſues</hi> from thence in his <hi>Life</hi> and <hi>Converſa<g ref="char:EOLhyphen"/>tion</hi> will be Happy and Proſperous. I conclude all with the <hi>Collect</hi> of this Day.</p>
+            <p>
+               <hi>Almighty GOD, who ſeest that we have no power of our ſelves to help our ſelves; Keep us both outwardly in our Bodies, and inwardly in our Souls; that we may be de<g ref="char:EOLhyphen"/>fended from all Adverſities which may happen to the Bo<g ref="char:EOLhyphen"/>dy, and from all</hi> EVIL THOUGHTS <hi>which may aſſault and hurt the Soul, thro' JESUS CHRIST our Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98158:9"/>
+            <head>A <hi>CATALOGUE</hi> of Sermons Printed and Sold by <hi>Henry Hills</hi> in <hi>Black-Fryars</hi> near the Water-ſide. Pride One Penny each.</head>
+            <list>
+               <item>TWO of Sir <hi>William Daws,</hi> Bar. one at
+<hi>Cambridge,</hi> on the 5th of <hi>Nov.</hi> 1706. and the other before the
+<hi>Queen, Nov.</hi> 19. 1704.</item>
+               <item>One of the Biſhop of <hi>Norwich</hi> before Her Majeſty,
+<hi>March</hi> 8th, 1705. on her happy Acceſſion to the Crown.</item>
+               <item>Two of the Biſhop of <hi>Lincoln</hi>'s, one
+<hi>Decemb,</hi> 31, 1705. and the other <hi>Novemb.</hi> 5. 1705.</item>
+               <item>One of Dr. <hi>Willis</hi>'s Dean of <hi>Lincoln,</hi> on the
+5th of <hi>Nov.</hi> 1705.</item>
+               <item>One of Dr. <hi>Blackhal,</hi> his Commencement Sermon before the Univerſity of <hi>Cambridge, June</hi> 30, 1700.</item>
+               <item>Three of Dr. <hi>Parſons</hi>'s, call'd <hi>The First-fruits of the Gentiles,</hi> &amp;c. at <hi>Salisbury.</hi>
+               </item>
+               <item>Two of Dr. <hi>Moſs,</hi> one before the <hi>Queen, April</hi> 22d, 1706. The other a Spittle-Sermon Wedneſday in
+<hi>Eaſter-week,</hi> 1706.</item>
+               <item>One of the Biſhop of <hi>York,</hi> before the
+<hi>Queen,</hi> at Her Coronation.</item>
+               <item>One of Dr. <hi>Clarke,</hi> before the <hi>Queen, Decemb.</hi> 30, 1705.</item>
+               <item>Two of Dr. <hi>Stanhope,</hi> One before the Biſhops,
+<hi>&amp;c. Octob.</hi> 25, 1705. The other before the <hi>Queen</hi> at St.
+<hi>Paul</hi>'s, 1706.</item>
+               <item>One of Dr. <hi>Blackburn</hi>'s before the <hi>Queen, Decemb</hi> 9, 1705.</item>
+               <item>A Sermon call'd <hi>The Royal Mercant,</hi> before his Majeſty King <hi>Charles</hi> the Second, at <hi>Whitehall.</hi>
+               </item>
+               <item>One of the Biſhop of <hi>Glouceſter</hi>'s at
+<hi>Gild-Hall,</hi> the 7th of <hi>Septemb.</hi> 1704, being a Thankſgiving for overcoming the <hi>French</hi> and <hi>Bavarians.</hi>
+               </item>
+               <item>Two of Mr. <hi>Knagg</hi>'s, one a Perſwaſive to Contentment, the other <hi>God with us.</hi>
+               </item>
+               <item>One of Dr. <hi>Hoadly</hi> before the Lord Mayor, <hi>&amp;c. Sept.</hi> 29, 1705.</item>
+               <item>Three of Dr. <hi>Kennet</hi>'s; Two upon the Murther of King
+<hi>Charles</hi> the Firſt, <hi>Jan.</hi> 30, 1703, 1705. The other before the <hi>Queen, June</hi> 23, 1706.</item>
+               <item>One of the Biſhop of <hi>St. Aſaph,</hi> before the
+<hi>Houſe of Lords, January</hi> 30, 1705 6.</item>
+               <item>One of Mr. <hi>Stubs,</hi> on <hi>May</hi> 26, 1706. being a Preparatory to the Gene<g ref="char:EOLhyphen"/>ral Thankſgiving.</item>
+               <item>One of Dr. <hi>Manningham,</hi> before the <hi>Queen</hi> at
+<hi>Windſor, Aug.</hi> 4, 1706.</item>
+               <item>One of Mr. <hi>Sprint,</hi> The Bridewoman's Counſeller, at a Wedding, 1799.</item>
+               <item>One of his Grace <hi>John</hi> late Archb of
+<hi>Canterbury,</hi> 1694, Of evil ſpeaking.</item>
+            </list>
+            <p>An Epitome of the <hi>Proteſtant Religion,</hi> ſhewing when it began, why the People ſo call'd, of the 3 Creeds, wherefore People ſtand when one is ſaid: How and when Infant Baptiſm came to be uſed; when and wherefore God-fathers and God-mothers came to be ordain'd, and the Sign of the Croſs us'd, when and how Sprinkling came to be uſed inſtead of Dipping: Alſo, the <hi>Presbyterians</hi> what they hold, what Scriptures they uſe. The <hi>Independents</hi> and <hi>Baptiſts,</hi> what Scriptures they produce: The <hi>Quakers,</hi> their Principles, and what Scriptures they produce. By <hi>Jo. Axford,</hi> of <hi>Lacockin</hi> in
+<hi>Wiltſhire.</hi>
+            </p>
+            <pb facs="tcp:98158:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
